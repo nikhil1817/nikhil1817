@@ -1,6 +1,6 @@
 # Nikhil Subramanya K
 coder</br>
-
+[![Twitter Badge](https://img.shields.io/badge/-@Nikhil Subramanya_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Nikhil Subramanya_)](https://mobile.twitter.com/NikhilSubraman8)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikhilsubramanya0218@gmail.com)](mailto:nikhilsubramanya0218@gmail.com)
 
 
