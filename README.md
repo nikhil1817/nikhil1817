@@ -9,11 +9,9 @@ coder,Web developer,Social Service</br>
 ---
 ### Hi there! 👋
 
-I am Nikhil Subramanya K, a Computer Science and Engineering Undergrad at K. S. Institute of Technology. I am a Programmer,who wants to enhance and specialise in tech, looking to establish a career in the field of Information Technology. **Highly interested in Python Programming and AWS.**
+I am Nikhil Subramanya K, a Computer Science and Engineering Undergrad at K. S. Institute of Technology.
+**Highly interested in Python Programming and AWS.**
 
-Here are some ideas to get you started:
 
-- 🌱 I’m currently learning 🤔, looking to upskill always!
-- 👬 I’m looking to collaborate on a project or an internship on Machine Learning / Python Development / Web Development.
-- 💬 Ask me about anything!
-- 📫 How to reach me 👆
+
+- 
