@@ -10,4 +10,5 @@ coder,Web developer,Social Service</br>
 ### Hi there! 👋
 
 I am Nikhil Subramanya K, a Computer Science and Engineering Undergrad at K. S. Institute of Technology.
+Interests: Python Programming,Web Development,Cloud Computing,Data Science
 
