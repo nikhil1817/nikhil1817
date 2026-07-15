@@ -19,7 +19,7 @@ My interests include:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhil%20Krishnaprasad-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikhil-subramanya-095334189)
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:nikhilsubramanya0218@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:nikhilkrishnaprasad@gmail.com)
 
 ---
 
