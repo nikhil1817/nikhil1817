@@ -7,11 +7,11 @@ I'm a Master's student in Computer Science at Western Michigan University passio
 My interests include:
 
 - 🤖 Artificial Intelligence & LLM Applications
+- ⚙️ Backend Engineering
+- 💻 Full-Stack Development
 - 🧠 Multi-Agent AI & Model Context Protocol (MCP)
 - 📚 Retrieval-Augmented Generation (RAG)
 - ☁️ Cloud Computing & Distributed Systems
-- ⚙️ Backend Engineering
-- 💻 Full-Stack Development
 
 ---
 
