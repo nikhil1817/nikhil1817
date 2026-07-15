@@ -64,8 +64,8 @@ My interests include:
 
 - 🤝 Team Collaboration Platform
 - 🧠 AI Workspace Platform
-- 🤖 Multi-Agent Research System
-- 📂 AI GitHub Engineering Assistant (MCP)
+- 💳 Marketplace Metering Service
+- 🔗 Distributed URL Shortener
 - 🩺 AI Clinical Assistant
 
 ---
